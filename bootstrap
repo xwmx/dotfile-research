@@ -1,0 +1,44 @@
+#!/usr/bin/env bash
+#
+# A simple script to set up the initial set of submodules.
+
+git submodule add https://github.com/andsens/homeshick.git             repositories/com/github/andsens/homeshick
+git submodule add https://github.com/anishathalye/dotbot.git           repositories/com/github/anishathalye/dotbot
+git submodule add https://github.com/aspiers/shell-env.git             repositories/com/github/aspiers/shell-env
+git submodule add https://github.com/atomantic/dotfiles.git            repositories/com/github/atomantic/dotfiles
+git submodule add https://github.com/awood/dotfiles.git                repositories/com/github/awood/dotfiles
+git submodule add https://github.com/cldwalker/irbfiles.git            repositories/com/github/cldwalker/irbfiles
+git submodule add https://github.com/cowboy/dotfiles.git               repositories/com/github/cowboy/dotfiles
+git submodule add https://github.com/dotfiles/dotfiles.github.com.git  repositories/com/github/dotfiles/dotfiles.github.com
+git submodule add https://github.com/dotphiles/dotphiles.git           repositories/com/github/dotphiles/dotphiles
+git submodule add https://github.com/dotphiles/dotsync.git             repositories/com/github/dotphiles/dotsync
+git submodule add https://github.com/dotphiles/dotvim.git              repositories/com/github/dotphiles/dotvim
+git submodule add https://github.com/dotphiles/dotzsh.git              repositories/com/github/dotphiles/dotzsh
+git submodule add https://github.com/ebeigarts/dotfiles.git            repositories/com/github/ebeigarts/dotfiles
+git submodule add https://github.com/eduardolundgren/dotfiles.git      repositories/com/github/eduardolundgren/dotfile
+git submodule add https://github.com/freshshell/fresh.git              repositories/com/github/freshshell/fresh
+git submodule add https://gist.github.com/2260182.git                  repositories/com/github/gists/erikh/hack.sh
+git submodule add https://github.com/holman/dotfiles.git               repositories/com/github/holman/dotfiles
+git submodule add https://github.com/jbernard/dotfiles.git             repositories/com/github/jbernard/dotfiles
+git submodule add https://github.com/jtheoof/dotfiles.git              repositories/com/github/jtheoof/dotfiles
+git submodule add https://github.com/lra/mackup.git                    repositories/com/github/lra/mackup
+git submodule add https://github.com/mathiasbynens/dotfiles.git        repositories/com/github/mathiasbynens/dotfiles
+git submodule add https://github.com/mislav/dotfiles.git               repositories/com/github/mislav/dotfiles
+git submodule add https://github.com/morgant/tools-osx.git             repositories/com/github/morgant/tools-osx
+git submodule add https://github.com/paulmillr/dotfiles.git            repositories/com/github/paulmillr/dotfiles
+git submodule add https://github.com/philips/ghar.git                  repositories/com/github/philips/ghar
+git submodule add https://github.com/RichiH/vcsh.git                   repositories/com/github/RichiH/vcsh
+git submodule add https://github.com/rtomayko/dotfiles.git             repositories/com/github/rtomayko/dotfiles
+git submodule add https://github.com/ryanb/dotfiles.git                repositories/com/github/ryanb/dotfiles
+git submodule add https://github.com/sadlerjw/dotfiles-sync.git        repositories/com/github/sadlerjw/dotfiles-sync
+git submodule add https://github.com/skwp/dotfiles.git                 repositories/com/github/skwp/dotfiles
+git submodule add https://github.com/square/maximum-awesome.git        repositories/com/github/square/maximum-awesome
+git submodule add https://github.com/technicalpickles/homesick.git     repositories/com/github/technicalpickles/homesick
+git submodule add https://github.com/thoughtbot/dotfiles.git           repositories/com/github/thoughtbot/dotfiles
+git submodule add https://github.com/thoughtbot/rcm.git                repositories/com/github/thoughtbot/rcm
+git submodule add https://github.com/tvon/dotfiles.git                 repositories/com/github/tvon/dotfiles
+git submodule add https://github.com/vasi/osxutils.git                 repositories/com/github/vasi/osxutils
+git submodule add https://github.com/wking/dotfiles-framework.git      repositories/com/github/wking/dotfiles-framework
+git submodule add https://github.com/xero/dotfiles.git                 repositories/com/github/xero/dotfiles
+git submodule add https://github.com/xolox/sync-dotfiles.git           repositories/com/github/xolox/sync-dotfiles
+
