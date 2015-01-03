@@ -37,9 +37,6 @@
 [submodule "repositories/com/github/ebeigarts/dotfiles"]
 	path = repositories/com/github/ebeigarts/dotfiles
 	url = https://github.com/ebeigarts/dotfiles.git
-[submodule "repositories/com/github/eduardolundgren/dotfile"]
-	path = repositories/com/github/eduardolundgren/dotfile
-	url = https://github.com/eduardolundgren/dotfiles.git
 [submodule "repositories/com/github/freshshell/fresh"]
 	path = repositories/com/github/freshshell/fresh
 	url = https://github.com/freshshell/fresh.git
@@ -118,3 +115,6 @@
 [submodule "repositories/com/github/alphabetum/dotfiles"]
 	path = repositories/com/github/alphabetum/dotfiles
 	url = https://github.com/alphabetum/dotfiles.git
+[submodule "repositories/com/github/eduardolundgren/dotfiles"]
+	path = repositories/com/github/eduardolundgren/dotfiles
+	url = https://github.com/eduardolundgren/dotfiles.git
