@@ -1,0 +1,117 @@
+[submodule "repositories/com/github/andsens/homeshick"]
+	path = repositories/com/github/andsens/homeshick
+	url = https://github.com/andsens/homeshick.git
+[submodule "repositories/com/github/anishathalye/dotbot"]
+	path = repositories/com/github/anishathalye/dotbot
+	url = https://github.com/anishathalye/dotbot.git
+[submodule "repositories/com/github/aspiers/shell-env"]
+	path = repositories/com/github/aspiers/shell-env
+	url = https://github.com/aspiers/shell-env.git
+[submodule "repositories/com/github/atomantic/dotfiles"]
+	path = repositories/com/github/atomantic/dotfiles
+	url = https://github.com/atomantic/dotfiles.git
+[submodule "repositories/com/github/awood/dotfiles"]
+	path = repositories/com/github/awood/dotfiles
+	url = https://github.com/awood/dotfiles.git
+[submodule "repositories/com/github/cldwalker/irbfiles"]
+	path = repositories/com/github/cldwalker/irbfiles
+	url = https://github.com/cldwalker/irbfiles.git
+[submodule "repositories/com/github/cowboy/dotfiles"]
+	path = repositories/com/github/cowboy/dotfiles
+	url = https://github.com/cowboy/dotfiles.git
+[submodule "repositories/com/github/dotfiles/dotfiles.github.com"]
+	path = repositories/com/github/dotfiles/dotfiles.github.com
+	url = https://github.com/dotfiles/dotfiles.github.com.git
+[submodule "repositories/com/github/dotphiles/dotphiles"]
+	path = repositories/com/github/dotphiles/dotphiles
+	url = https://github.com/dotphiles/dotphiles.git
+[submodule "repositories/com/github/dotphiles/dotsync"]
+	path = repositories/com/github/dotphiles/dotsync
+	url = https://github.com/dotphiles/dotsync.git
+[submodule "repositories/com/github/dotphiles/dotvim"]
+	path = repositories/com/github/dotphiles/dotvim
+	url = https://github.com/dotphiles/dotvim.git
+[submodule "repositories/com/github/dotphiles/dotzsh"]
+	path = repositories/com/github/dotphiles/dotzsh
+	url = https://github.com/dotphiles/dotzsh.git
+[submodule "repositories/com/github/ebeigarts/dotfiles"]
+	path = repositories/com/github/ebeigarts/dotfiles
+	url = https://github.com/ebeigarts/dotfiles.git
+[submodule "repositories/com/github/eduardolundgren/dotfile"]
+	path = repositories/com/github/eduardolundgren/dotfile
+	url = https://github.com/eduardolundgren/dotfiles.git
+[submodule "repositories/com/github/freshshell/fresh"]
+	path = repositories/com/github/freshshell/fresh
+	url = https://github.com/freshshell/fresh.git
+[submodule "repositories/com/github/gists/erikh/hack.sh"]
+	path = repositories/com/github/gists/erikh/hack.sh
+	url = https://gist.github.com/2260182.git
+[submodule "repositories/com/github/holman/dotfiles"]
+	path = repositories/com/github/holman/dotfiles
+	url = https://github.com/holman/dotfiles.git
+[submodule "repositories/com/github/jbernard/dotfiles"]
+	path = repositories/com/github/jbernard/dotfiles
+	url = https://github.com/jbernard/dotfiles.git
+[submodule "repositories/com/github/jtheoof/dotfiles"]
+	path = repositories/com/github/jtheoof/dotfiles
+	url = https://github.com/jtheoof/dotfiles.git
+[submodule "repositories/com/github/lra/mackup"]
+	path = repositories/com/github/lra/mackup
+	url = https://github.com/lra/mackup.git
+[submodule "repositories/com/github/mathiasbynens/dotfiles"]
+	path = repositories/com/github/mathiasbynens/dotfiles
+	url = https://github.com/mathiasbynens/dotfiles.git
+[submodule "repositories/com/github/mislav/dotfiles"]
+	path = repositories/com/github/mislav/dotfiles
+	url = https://github.com/mislav/dotfiles.git
+[submodule "repositories/com/github/morgant/tools-osx"]
+	path = repositories/com/github/morgant/tools-osx
+	url = https://github.com/morgant/tools-osx.git
+[submodule "repositories/com/github/paulmillr/dotfiles"]
+	path = repositories/com/github/paulmillr/dotfiles
+	url = https://github.com/paulmillr/dotfiles.git
+[submodule "repositories/com/github/philips/ghar"]
+	path = repositories/com/github/philips/ghar
+	url = https://github.com/philips/ghar.git
+[submodule "repositories/com/github/RichiH/vcsh"]
+	path = repositories/com/github/RichiH/vcsh
+	url = https://github.com/RichiH/vcsh.git
+[submodule "repositories/com/github/rtomayko/dotfiles"]
+	path = repositories/com/github/rtomayko/dotfiles
+	url = https://github.com/rtomayko/dotfiles.git
+[submodule "repositories/com/github/ryanb/dotfiles"]
+	path = repositories/com/github/ryanb/dotfiles
+	url = https://github.com/ryanb/dotfiles.git
+[submodule "repositories/com/github/sadlerjw/dotfiles-sync"]
+	path = repositories/com/github/sadlerjw/dotfiles-sync
+	url = https://github.com/sadlerjw/dotfiles-sync.git
+[submodule "repositories/com/github/skwp/dotfiles"]
+	path = repositories/com/github/skwp/dotfiles
+	url = https://github.com/skwp/dotfiles.git
+[submodule "repositories/com/github/square/maximum-awesome"]
+	path = repositories/com/github/square/maximum-awesome
+	url = https://github.com/square/maximum-awesome.git
+[submodule "repositories/com/github/technicalpickles/homesick"]
+	path = repositories/com/github/technicalpickles/homesick
+	url = https://github.com/technicalpickles/homesick.git
+[submodule "repositories/com/github/thoughtbot/dotfiles"]
+	path = repositories/com/github/thoughtbot/dotfiles
+	url = https://github.com/thoughtbot/dotfiles.git
+[submodule "repositories/com/github/thoughtbot/rcm"]
+	path = repositories/com/github/thoughtbot/rcm
+	url = https://github.com/thoughtbot/rcm.git
+[submodule "repositories/com/github/tvon/dotfiles"]
+	path = repositories/com/github/tvon/dotfiles
+	url = https://github.com/tvon/dotfiles.git
+[submodule "repositories/com/github/vasi/osxutils"]
+	path = repositories/com/github/vasi/osxutils
+	url = https://github.com/vasi/osxutils.git
+[submodule "repositories/com/github/wking/dotfiles-framework"]
+	path = repositories/com/github/wking/dotfiles-framework
+	url = https://github.com/wking/dotfiles-framework.git
+[submodule "repositories/com/github/xero/dotfiles"]
+	path = repositories/com/github/xero/dotfiles
+	url = https://github.com/xero/dotfiles.git
+[submodule "repositories/com/github/xolox/sync-dotfiles"]
+	path = repositories/com/github/xolox/sync-dotfiles
+	url = https://github.com/xolox/sync-dotfiles.git
