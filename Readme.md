@@ -12,6 +12,12 @@
 
 A collection of items and submodules related to dotfiles.
 
+## Setup
+
+After cloning, run the following to load the submodules:
+
+    git submodule init && git submodule update --init --recursive
+
 See also:
 
 - [dots](https://github.com/alphabetum/dots) - A configuration management tool
