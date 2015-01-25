@@ -121,3 +121,6 @@
 [submodule "repositories/com/github/mattdbridges/dotify"]
 	path = repositories/com/github/mattdbridges/dotify
 	url = https://github.com/mattdbridges/dotify.git
+[submodule "repositories/com/github/jdevera/dotfiles"]
+	path = repositories/com/github/jdevera/dotfiles
+	url = https://github.com/jdevera/dotfiles.git
