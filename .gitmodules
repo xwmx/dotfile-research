@@ -124,3 +124,6 @@
 [submodule "repositories/com/github/jdevera/dotfiles"]
 	path = repositories/com/github/jdevera/dotfiles
 	url = https://github.com/jdevera/dotfiles.git
+[submodule "repositories/com/github/webpro/dotfiles"]
+	path = repositories/com/github/webpro/dotfiles
+	url = https://github.com/webpro/dotfiles.git
