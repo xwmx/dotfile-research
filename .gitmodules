@@ -130,3 +130,6 @@
 [submodule "repositories/com/github/e36freak/tools"]
 	path = repositories/com/github/e36freak/tools
 	url = https://github.com/e36freak/tools.git
+[submodule "repositories/com/github/dave-tucker/dotfiles"]
+	path = repositories/com/github/dave-tucker/dotfiles
+	url = https://github.com/dave-tucker/dotfiles.git
