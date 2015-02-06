@@ -133,3 +133,6 @@
 [submodule "repositories/com/github/dave-tucker/dotfiles"]
 	path = repositories/com/github/dave-tucker/dotfiles
 	url = https://github.com/dave-tucker/dotfiles.git
+[submodule "repositories/com/github/lewagon/dotfiles"]
+	path = repositories/com/github/lewagon/dotfiles
+	url = https://github.com/lewagon/dotfiles.git
