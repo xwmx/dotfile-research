@@ -136,3 +136,6 @@
 [submodule "repositories/com/github/lewagon/dotfiles"]
 	path = repositories/com/github/lewagon/dotfiles
 	url = https://github.com/lewagon/dotfiles.git
+[submodule "repositories/com/github/trishume/dotfiles"]
+	path = repositories/com/github/trishume/dotfiles
+	url = https://github.com/trishume/dotfiles.git
