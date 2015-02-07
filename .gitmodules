@@ -148,3 +148,6 @@
 [submodule "repositories/com/github/bbatsov/prelude"]
 	path = repositories/com/github/bbatsov/prelude
 	url = https://github.com/bbatsov/prelude.git
+[submodule "repositories/com/github/carlhuda/janus"]
+	path = repositories/com/github/carlhuda/janus
+	url = https://github.com/carlhuda/janus.git
