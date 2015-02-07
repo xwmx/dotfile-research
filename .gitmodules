@@ -145,3 +145,6 @@
 [submodule "repositories/com/github/spf13/spf13-vim"]
 	path = repositories/com/github/spf13/spf13-vim
 	url = https://github.com/spf13/spf13-vim.git
+[submodule "repositories/com/github/bbatsov/prelude"]
+	path = repositories/com/github/bbatsov/prelude
+	url = https://github.com/bbatsov/prelude.git
