@@ -142,3 +142,6 @@
 [submodule "repositories/com/github/alphabetum/dots"]
 	path = repositories/com/github/alphabetum/dots
 	url = https://github.com/alphabetum/dots.git
+[submodule "repositories/com/github/spf13/spf13-vim"]
+	path = repositories/com/github/spf13/spf13-vim
+	url = https://github.com/spf13/spf13-vim.git
