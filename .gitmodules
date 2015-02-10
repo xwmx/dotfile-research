@@ -151,3 +151,6 @@
 [submodule "repositories/com/github/carlhuda/janus"]
 	path = repositories/com/github/carlhuda/janus
 	url = https://github.com/carlhuda/janus.git
+[submodule "repositories/com/github/jdonaldson/dotfiles"]
+	path = repositories/com/github/jdonaldson/dotfiles
+	url = https://github.com/jdonaldson/dotfiles.git
