@@ -163,3 +163,6 @@
 [submodule "repositories/com/github/chrisopedia/dotfiles"]
 	path = repositories/com/github/chrisopedia/dotfiles
 	url = https://github.com/chrisopedia/dotfiles.git
+[submodule "repositories/com/github/necolas/dotfiles"]
+	path = repositories/com/github/necolas/dotfiles
+	url = https://github.com/necolas/dotfiles.git
