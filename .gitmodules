@@ -169,3 +169,6 @@
 [submodule "repositories/com/github/jez/dotfiles"]
 	path = repositories/com/github/jez/dotfiles
 	url = https://github.com/jez/dotfiles.git
+[submodule "repositories/com/github/bezi/dotfiles"]
+	path = repositories/com/github/bezi/dotfiles
+	url = https://github.com/bezi/dotfiles.git
