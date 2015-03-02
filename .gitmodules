@@ -172,3 +172,6 @@
 [submodule "repositories/com/github/bezi/dotfiles"]
 	path = repositories/com/github/bezi/dotfiles
 	url = https://github.com/bezi/dotfiles.git
+[submodule "repositories/com/github/Mange/dotfiles"]
+	path = repositories/com/github/Mange/dotfiles
+	url = https://github.com/Mange/dotfiles.git
