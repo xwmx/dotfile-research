@@ -175,3 +175,6 @@
 [submodule "repositories/com/github/Mange/dotfiles"]
 	path = repositories/com/github/Mange/dotfiles
 	url = https://github.com/Mange/dotfiles.git
+[submodule "repositories/com/github/mroth/bootslap"]
+	path = repositories/com/github/mroth/bootslap
+	url = https://github.com/mroth/bootslap.git
