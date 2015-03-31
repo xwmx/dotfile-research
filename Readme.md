@@ -14,6 +14,9 @@ A collection of items and submodules related to dotfiles.
 
 ## Setup
 
+Note that this is a pretty big repository, currently at 665M once the
+submodules are loaded.
+
 After cloning, run the following to load the submodules:
 
     git submodule init && git submodule update --init --recursive
