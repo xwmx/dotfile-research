@@ -75,8 +75,8 @@
 	url = https://github.com/RichiH/vcsh.git
 [submodule "repositories/com/github/rtomayko/dotfiles"]
 	path = repositories/com/github/rtomayko/dotfiles
-  url = https://github.com/rtomayko/dotfiles.git
-  branch = rtomayko
+	url = https://github.com/rtomayko/dotfiles.git
+	branch = rtomayko
 [submodule "repositories/com/github/ryanb/dotfiles"]
 	path = repositories/com/github/ryanb/dotfiles
 	url = https://github.com/ryanb/dotfiles.git
