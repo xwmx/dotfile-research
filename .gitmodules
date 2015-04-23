@@ -192,3 +192,6 @@
 [submodule "repositories/com/github/syl20bnr/spacemacs"]
 	path = repositories/com/github/syl20bnr/spacemacs
 	url = https://github.com/syl20bnr/spacemacs.git
+[submodule "repositories/com/github/bling/minivimrc"]
+	path = repositories/com/github/bling/minivimrc
+	url = https://github.com/bling/minivimrc.git
