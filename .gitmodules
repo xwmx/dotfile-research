@@ -195,3 +195,6 @@
 [submodule "repositories/com/github/bling/minivimrc"]
 	path = repositories/com/github/bling/minivimrc
 	url = https://github.com/bling/minivimrc.git
+[submodule "repositories/com/github/amontalenti/home"]
+	path = repositories/com/github/amontalenti/home
+	url = https://github.com/amontalenti/home.git
