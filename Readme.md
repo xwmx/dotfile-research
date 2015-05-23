@@ -23,7 +23,7 @@ After cloning, run the following to load the submodules:
 
 See also:
 
-- [dots](https://github.com/alphabetum/dots) - A configuration management tool
+- [bindle](https://github.com/alphabetum/bindle) - A configuration management tool
   for your personal unix-like computer.
 - [dotfiles](https://github.com/alphabetum/dotfiles) - An OS X environment with
   configuration scripts.
