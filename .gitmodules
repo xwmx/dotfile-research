@@ -198,3 +198,6 @@
 [submodule "repositories/com/github/amontalenti/home"]
 	path = repositories/com/github/amontalenti/home
 	url = https://github.com/amontalenti/home.git
+[submodule "repositories/com/github/vdemeester/emacs-config"]
+	path = repositories/com/github/vdemeester/emacs-config
+	url = https://github.com/vdemeester/emacs-config.git
