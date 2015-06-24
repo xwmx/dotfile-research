@@ -27,3 +27,7 @@ See also:
   for your personal unix-like computer.
 - [dotfiles](https://github.com/alphabetum/dotfiles) - An OS X environment with
   configuration scripts.
+
+References:
+- [Rob Pike - A lesson in shortcuts. How an unrelated code shortcut resulted in
+  dotfiles](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp)
