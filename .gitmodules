@@ -201,3 +201,6 @@
 [submodule "repositories/com/github/vdemeester/emacs-config"]
 	path = repositories/com/github/vdemeester/emacs-config
 	url = https://github.com/vdemeester/emacs-config.git
+[submodule "repositories/com/github/ehazlett/.dotfiles"]
+	path = repositories/com/github/ehazlett/.dotfiles
+	url = https://github.com/ehazlett/.dotfiles.git
