@@ -210,3 +210,6 @@
 [submodule "repositories/com/github/msparks/dotfiles"]
 	path = repositories/com/github/msparks/dotfiles
 	url = https://github.com/msparks/dotfiles.git
+[submodule "repositories/com/github/GoodGuide/dotfiles"]
+	path = repositories/com/github/GoodGuide/dotfiles
+	url = https://github.com/GoodGuide/dotfiles.git
