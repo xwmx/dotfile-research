@@ -204,3 +204,6 @@
 [submodule "repositories/com/github/ehazlett/.dotfiles"]
 	path = repositories/com/github/ehazlett/.dotfiles
 	url = https://github.com/ehazlett/.dotfiles.git
+[submodule "repositories/com/github/blackrobot/docker-dotfiles"]
+	path = repositories/com/github/blackrobot/docker-dotfiles
+	url = https://github.com/blackrobot/docker-dotfiles.git
