@@ -216,3 +216,6 @@
 [submodule "repositories/com/github/creack/dotfiles"]
 	path = repositories/com/github/creack/dotfiles
 	url = https://github.com/creack/dotfiles.git
+[submodule "repositories/com/github/dcarney/dotfiles"]
+	path = repositories/com/github/dcarney/dotfiles
+	url = https://github.com/dcarney/dotfiles.git
