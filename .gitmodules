@@ -225,3 +225,6 @@
 [submodule "repositories/com/github/nojhan/liquidprompt"]
 	path = repositories/com/github/nojhan/liquidprompt
 	url = https://github.com/nojhan/liquidprompt.git
+[submodule "repositories/com/github/easysid/dotfiles"]
+	path = repositories/com/github/easysid/dotfiles
+	url = https://github.com/easysid/dotfiles.git
