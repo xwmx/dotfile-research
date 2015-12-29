@@ -228,3 +228,6 @@
 [submodule "repositories/com/github/easysid/dotfiles"]
 	path = repositories/com/github/easysid/dotfiles
 	url = https://github.com/easysid/dotfiles.git
+[submodule "repositories/com/github/clarete/muttrc"]
+	path = repositories/com/github/clarete/muttrc
+	url = https://github.com/clarete/muttrc.git
