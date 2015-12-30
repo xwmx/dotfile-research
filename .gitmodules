@@ -231,3 +231,6 @@
 [submodule "repositories/com/github/clarete/muttrc"]
 	path = repositories/com/github/clarete/muttrc
 	url = https://github.com/clarete/muttrc.git
+[submodule "repositories/com/github/vidbina/mutt-setup"]
+	path = repositories/com/github/vidbina/mutt-setup
+	url = https://github.com/vidbina/mutt-setup
