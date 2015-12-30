@@ -243,3 +243,6 @@
 [submodule "repositories/com/github/altercation/mutt-colors-solarized"]
 	path = repositories/com/github/altercation/mutt-colors-solarized
 	url = https://github.com/altercation/mutt-colors-solarized.git
+[submodule "repositories/com/github/gists/4574164"]
+	path = repositories/com/github/gists/4574164
+	url = https://gist.github.com/4574164.git
