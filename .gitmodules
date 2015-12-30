@@ -252,3 +252,6 @@
 [submodule "repositories/com/github/New-Bamboo/Hermes"]
 	path = repositories/com/github/New-Bamboo/Hermes
 	url = https://github.com/New-Bamboo/Hermes.git
+[submodule "repositories/com/github/gists/8914f712f689cc01c267"]
+	path = repositories/com/github/gists/8914f712f689cc01c267
+	url = https://gist.github.com/8914f712f689cc01c267.git
