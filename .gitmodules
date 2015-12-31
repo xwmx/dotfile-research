@@ -255,3 +255,6 @@
 [submodule "repositories/com/github/gists/8914f712f689cc01c267"]
 	path = repositories/com/github/gists/8914f712f689cc01c267
 	url = https://gist.github.com/8914f712f689cc01c267.git
+[submodule "repositories/com/github/gists/1289741"]
+	path = repositories/com/github/gists/1289741
+	url = https://gist.github.com/1289741.git
