@@ -261,3 +261,6 @@
 [submodule "repositories/com/github/jasongraham/mail_conf_example"]
 	path = repositories/com/github/jasongraham/mail_conf_example
 	url = https://github.com/jasongraham/mail_conf_example.git
+[submodule "repositories/com/github/captbaritone/dotfiles"]
+	path = repositories/com/github/captbaritone/dotfiles
+	url = https://github.com/captbaritone/dotfiles.git
