@@ -267,3 +267,6 @@
 [submodule "repositories/com/github/rodjek/dotfiles"]
 	path = repositories/com/github/rodjek/dotfiles
 	url = https://github.com/rodjek/dotfiles.git
+[submodule "repositories/com/github/backalor/dotfiles"]
+	path = repositories/com/github/backalor/dotfiles
+	url = https://github.com/backalor/dotfiles.git
