@@ -270,3 +270,6 @@
 [submodule "repositories/com/github/backalor/dotfiles"]
 	path = repositories/com/github/backalor/dotfiles
 	url = https://github.com/backalor/dotfiles.git
+[submodule "repositories/com/github/luxpir/plaintext-productivity"]
+	path = repositories/com/github/luxpir/plaintext-productivity
+	url = https://github.com/luxpir/plaintext-productivity.git
