@@ -273,3 +273,6 @@
 [submodule "repositories/com/github/luxpir/plaintext-productivity"]
 	path = repositories/com/github/luxpir/plaintext-productivity
 	url = https://github.com/luxpir/plaintext-productivity.git
+[submodule "repositories/com/github/mrzool/bash-sensible"]
+	path = repositories/com/github/mrzool/bash-sensible
+	url = https://github.com/mrzool/bash-sensible.git
